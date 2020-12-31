@@ -1,0 +1,61 @@
+id,Seller,Parcel Number,Size(Acres),Size(Hectares),Location,Map,County
+1,Raphael Kieti Farm,Makueni/Masongaleni/121,47.6,19.26,Nguuni,Makueni/Masongaleni/Sheet 6,Makueni
+2,John Malcolm Bell,Makueni/Masongaleni/109,47.6,19.26,Nguuni,Makueni/Masongaleni/Sheet 6,Makueni
+4,Josphat Nzioka Kavisi,Makueni/Masongaleni/102,45.9,18.58,Nguuni/Ulilinzi,Makueni/Masongaleni/Sheet 8,Makueni
+5,William Kivuvani Mbatha,Makueni/Masongaleni/136,69.4,28.09,Kyanguli,Makueni/Masongaleni/Sheet 8,Makueni
+6,Charles Musembi Kivindu,Makueni/Masongaleni/139,49,19.83,Kyanguli,Makueni/Masongaleni/Sheet 10,Makueni
+7,Jackson Munyao,Makueni/Masongaleni/158,62.71,25.38,Kyanguli,Makueni/Masongaleni/Sheet 10,Makueni
+8,Gerishon Nzuva,Makueni/Masongaleni/148 & 1323,61.21,24.77,Kalima Koi,Makueni/Masongaleni/Sheet 10 & 12,Makueni
+9,Charles Masai,Makueni/Masongaleni/151,87.26,35.31,Kalima Koi,Makueni/Masongaleni/Sheet 12,Makueni
+10,Sammy Muthoka Mbova,Makueni/Masongaleni/3,55.35,22.4,Kalima Koi,Makueni/Masongaleni/Sheet 12,Makueni
+11,Ndungi Mutie Kiasa,Makueni/Masongaleni/1088,8.4,3.4,Kalima Koi,Makueni/Masongaleni/Sheet 12,Makueni
+12,Naomi Mueni Vuvi,Makueni/Masongaleni/374,52,21.04,Miumoni,Makueni/Masongaleni/Sheet 12,Makueni
+13,Rose Kavee Muindi,Makueni/Masongaleni/373,47.5,19.22,Muimoni,Makueni/Masongaleni/Sheet 12,Makueni
+14,Dr. Thomas Mwololo,Makueni/Masongaleni/368,50.56,20.46,Muimoni,Makueni/Masongaleni/Sheet 12,Makueni
+15,Samuel Kimeu Mbuthia & Patrick Wathome Kituto,Makueni/Masongaleni/1079 & 1080,25,10.12,Muimoni,Makueni/Masongaleni/Sheet 12,Makueni
+16,Jeniffer Ndunge Muli,Makueni/Masongaleni/355,90,36.42,Muimoni,Makueni/Masongaleni/Sheet 12,Makueni
+20,Teresia Ndunge & Musembi,Makueni/Masongaleni/1052 & 1053,12.9,5.22,Miumoni,Makueni/Masongaleni/Sheet 12,Makueni
+22,Mbaluka Mwangangi,Makueni/Masongaleni/1321,8.65,3.5,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+23,Kithome Malawa,Makueni/Masongaleni/362,43.55,17.62,Mwanyani,Makueni/Masongaleni/Sheet 10 & 12,Makueni
+24,"Kasarani Kikonde Farm, Sila, Munuve & Mbuvi","Makueni/Masongaleni/185,186,187,1999A,1999B,1790,1792,1793,1791,1284,1298,1301",251.6,101.82,Mwanyani,Makueni/Masongaleni/Sheet 10 & 12,Makueni
+25,Kambo Matheka Farm & Jacob Mateli Musila,Makueni/Masongaleni/191 & 1302,64.05,25.92,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+26,Benson Nzilu Muthui & Joseph Ngumbi Ndambuki,Makueni/Masongaleni/196 & 197,108,43.71,Mwanyani,Makueni/Masongaleni/Sheet 9 & 10,Makueni
+27,Josephine Mueni Kiluta,Makueni/Masongaleni/231,49.13,19.88,Mwanyani,Makueni/Masongaleni/Sheet 9,Makueni
+28,"Mwanzia,Kiilo,Mutie","Makueni/Masongaleni/15,16,200,1295,1294,1253,1293,1215,1291,1605,1290,1296,1025",251.73,101.87,Mwanyani,Makueni/Masongaleni/Sheet 7 & 10,Makueni
+29,Samuel Makenzie,Makueni/Masongaleni/180 & 181,98.4,39.82,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+30,Mbithi Mutisya,Makueni/Masongaleni/1836 & 203,71.95,29.12,Mwanyani,"Makueni/Masongaleni/Sheet 7, 8 & 10",Makueni
+32,Francis Kiende Mbuvi,Makueni/Masongaleni/288,46,18.62,Mweini,Makueni/Masongaleni/Sheet 7,Makueni
+33,Kitivo Solomoni & Jimmy Mutua,Makueni/Masongaleni/71 & 285,88,35.61,Mweini,Makueni/Masongaleni/Sheet 7,Makueni
+34,Lilian Ndanu Kioko,Makueni/Masongaleni/213,49.4,19.99,Kyumani,Makueni/Masongaleni/Sheet 8,Makueni
+35,"Mbathi Kitili, Matheka & Ngala Maundu","Makueni/Masongaleni/89, 94, 77 & 413",175.5,71.02,Sokomoko,Makueni/Masongaleni/Sheet 4 & 6,Makueni
+36,"Peter Mbuvi, Samuel Theuri & Nzisa Nduati","Makueni/Masongaleni/110, 96 & 376",117.66,47.62,Sokomoko,Makueni/Masongaleni/Sheet 6,Makueni
+37,Fred Munyao & Major Mativo,Makueni/Masongaleni/65 & 79,92.8,37.55,Kyumani/Sokomoko,Makueni/Masongaleni/Sheet 5 & 6,Makueni
+38,Michael Kiluu Mungata,Makueni/Masongaleni/116,49.5,20.03,Mwanyani,Makueni/Masongaleni/Sheet 4,Makueni
+39,Sammy Mutie Kyungu,Makueni/Masongaleni/53,40,16.19,Katulani,Makueni/Masongaleni/Sheet 3 & 5,Makueni
+41,Kwa Muti Farm & Charles Mutunga Mutie,Makueni/Masongaleni/1448,10,4.05,Ngwata Nguuni,Makueni/Masongaleni/Sheet 9,Makueni
+42,Ruth Mwende Kyenze,Makueni/Masongaleni/1466,8,3.24,Ndauni,Makueni/Masongaleni/Sheet 9,Makueni
+45,William Katili Kithendu,Makueni/Masongaleni/1101,10,4.05,Kalima Koi,Makueni/Masongaleni/Sheet 12,Makueni
+46,Willy Kingoo Mwanza,Makueni/Masongaleni/1118,9.25,3.74,Miumoni,Makueni/Masongaleni/Sheet 12,Makueni
+47,Jimmy Mwendo,Makueni/Masongaleni/1614,8.25,3.34,Tisya,Makueni/Masongaleni/Sheet 7,Makueni
+48,Geoffrey Mwalimu Nzuki,Makueni/Masongaleni/1767,7.25,2.93,Makutano,Makueni/Masongaleni/Sheet 4,Makueni
+49,Henry Nzuki,Makueni/Masongaleni/1818,5,2.02,Makutano,Makueni/Masongaleni/Sheet 3,Makueni
+50,Susan Ndanu Kiteme,Makueni/Masongaleni/13,41,16.59,Mwanyani,Makueni/Masongaleni/Sheet 9 & 11,Makueni
+51,Musyoka Mulei,Makueni/Masongaleni/1510,7.75,3.14,Mwanyani,Makueni/Masongaleni/Sheet 9,Makueni
+52,Kaveni Kimweli,Makueni/Masongaleni/1257,7.75,3.14,Kyanguli,Makueni/Masongaleni/Sheet 10,Makueni
+53,Regina Mwethya Isika,Makueni/Masongaleni/1337,8.5,3.44,Mwanyani,Makueni/Masongaleni/Sheet 8 & 10,Makueni
+54,Kaindi Utwele,Makueni/Masongaleni/1292,7.25,2.93,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+55,Mutinda Nthangathi,Makueni/Masongaleni/1603,7.75,3.14,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+56,Esther Ngwatu Ngose,Makueni/Masongaleni/1280,8,3.24,Mwanyani,Makueni/Masongaleni/Sheet 10,Makueni
+57,Kingoku Mukula,Makueni/Masongaleni/1051,4,1.62,Not Specified,Makueni/Masongaleni/Sheet 9 & 11,Makueni
+58,Kioki Kiio,Makueni/Masongaleni/1343,2.5,1.01,Not Specified,Makueni/Masongaleni/Sheet 10,Makueni
+60,Paul Muli & Mwololo Francis ,Makueni/Masongaleni/322,7.5,3.04,Not Specified,Makueni/Masongaleni/Sheet 9 & 11,Makueni
+63,Daudi Mulemba Nzuki,Makueni/Masongaleni/1602,8,3.24,Not Specified,Makueni/Masongaleni/Sheet 10,Makueni
+64,Veronic Katunge Mutuva,Makueni/Masongaleni/1811,10,4.05,Not Specified,Makueni/Masongaleni/Sheet 10,Makueni
+66,Patrick Mwololo,Makueni/Masongaleni/1750,7.25,2.93,Not Specified,Makueni/Masongaleni/Sheet 3 & 4,Makueni
+67,Alice Mwikali Ezekiel,Makueni/Masongaleni/45,52.25,21.14,Not Specified,Makueni/Masongaleni/Sheet 5,Makueni
+68,Jane Mbithe Mutuva,Makueni/Masongaleni/1810,10,4.05,Not Specified,Makueni/Masongaleni/Sheet 10,Makueni
+70,Damaris Ndoti Makewa,Makueni/Masongaleni/352,2,0.81,Not Specified,Makueni/Masongaleni/Sheet 8 & 10,Makueni
+72,Joseph Ndavi Kisivo,Makueni/Masongaleni/400,13.75,5.56,Not Specified,Makueni/Masongaleni/Sheet 6,Makueni
+73,Munanye Ningi Mue,Makueni/Masongaleni/1115,7.5,3.04,Not Specified,Makueni/Masongaleni/Sheet 12,Makueni
+74,Kingoo Wambua Mulandi,Makueni/Masongaleni/1256,8.25,3.34,Not Specified,Makueni/Masongaleni/Sheet 10,Makueni
+TOTAL,,,2697.06,1091.47,,,
