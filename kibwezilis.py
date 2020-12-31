@@ -16,8 +16,8 @@ app.title = 'Festus LIS'
 token = "pk.eyJ1IjoiZW1tYW51ZWxuenlva2EiLCJhIjoiY2swYzA5MTVqMHgweTNsbWR6cTc1OXp3bSJ9.lzaPgndzbQq014PHdgkIsg"
 
 # Opening JSON file
-
-with open('C:/Users/Mannu/Downloads/Parcel_Geo.json') as response:
+response = requests.get('https://raw.githubusercontent.com/emgeek-gs/LIS/main/data/Parcel_Geo.geojson')
+with open("https://raw.githubusercontent.com/emgeek-gs/LIS/main/data/Parcel_Geo.geojson") as response:
     geoj = json.load(response)
 # returns JSON object as
 # a dictionary
